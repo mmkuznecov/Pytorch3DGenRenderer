@@ -1,0 +1,9 @@
+image_size: 224
+num_samples: 20
+obj_filename: data/cow/cow.obj
+randomize: true
+sampling_method: fibonacci_sphere
+save_dir: data/cow
+save_gif: true
+save_vis: true
+seed: 42
