@@ -59,7 +59,16 @@ This project is designed to render 3D meshes from various angles, which is parti
     gpus_num: -1
     ```
 
-# Usage
+Examples of renders of aircraft are provided below:
+
+|         |         |         |         |         |         |
+|---------|---------|---------|---------|---------|---------|
+| <img src="fig/renders_samples/00.png" width="100px"> | <img src="fig/renders_samples/01.png" width="100px"> | <img src="fig/renders_samples/02.png" width="100px"> | <img src="fig/renders_samples/03.png" width="100px"> | <img src="fig/renders_samples/04.png" width="100px"> | <img src="fig/renders_samples/05.png" width="100px"> |
+| <img src="fig/renders_samples/06.png" width="100px"> | <img src="fig/renders_samples/07.png" width="100px"> | <img src="fig/renders_samples/08.png" width="100px"> | <img src="fig/renders_samples/09.png" width="100px"> | <img src="fig/renders_samples/10.png" width="100px"> | <img src="fig/renders_samples/11.png" width="100px"> |
+| <img src="fig/renders_samples/12.png" width="100px"> | <img src="fig/renders_samples/13.png" width="100px"> | <img src="fig/renders_samples/14.png" width="100px"> | <img src="fig/renders_samples/15.png" width="100px"> | <img src="fig/renders_samples/16.png" width="100px"> | <img src="fig/renders_samples/17.png" width="100px"> |
+| <img src="fig/renders_samples/18.png" width="100px"> | <img src="fig/renders_samples/19.png" width="100px"> | <img src="fig/renders_samples/20.png" width="100px"> | <img src="fig/renders_samples/21.png" width="100px"> | <img src="fig/renders_samples/22.png" width="100px"> | <img src="fig/renders_samples/23.png" width="100px"> |
+
+## Usage
 
 Once you've prepared all the necessary configurations, you can initiate the rendering process with the following command:
 
